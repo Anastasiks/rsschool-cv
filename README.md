@@ -5,8 +5,7 @@
 ---
 
 <div align="center">
-
-![Avatar](https://github.com/Anastasiks/module4/blob/main/avatar.jpg?raw=true)
+<img src="https://github.com/Anastasiks/module4/blob/main/avatar.jpg?raw=true">
 
 **_Student • Beginner Developer • Explorer_**
 
