@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Avatar](https://avatars.githubusercontent.com/u/128732480?s=400&u=2715ccc5b28bb81459b66fe66e90f555f8e41ba9&v=4)
+![Avatar](https://github.com/Anastasiks/module4/blob/main/avatar.jpg?raw=true)
 
 **_Student • Beginner Developer • Explorer_**
 
