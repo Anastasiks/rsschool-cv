@@ -1,6 +1,3 @@
-## [rsschool-резюме](https://Anastasiks.github.io/rsschool-cv/)
-
-
 ## Molokanova Anastasia
 ### Contacts
 * Location: Minsk, Belarus
