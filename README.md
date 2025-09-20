@@ -49,3 +49,13 @@
 function multiply(a, b) {
   return a * b;
 }
+```
+
+## **Example of works**
+
+at school, I did a project for an Olympiad.  
+The idea was to create a game similar to **Battleship**, where a person can generate a field of the desired size.
+<p align="center">
+  <img src="https://github.com/Anastasiks/module4/blob/main/img2.jpg?raw=true" alt="Example work 1" width="350"/>
+  <img src="https://github.com/Anastasiks/module4/blob/main/img1.jpg?raw=true" alt="Example work 2" width="350"/>
+</p>
