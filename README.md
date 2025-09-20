@@ -5,7 +5,8 @@
 ---
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/128732480?s=400&u=2715ccc5b28bb81459b66fe66e90f555f8e41ba9&v=4" alt="Avatar" width="260">
+  <img src="https://avatars.githubusercontent.com/u/128732480?s=400&u=2715ccc5b28bb81459b66fe66e90f555f8e41ba9&v=4" 
+       alt="Avatar" width="260" style="border-radius:50%;">
 </p>
 
 <p align="center">
@@ -13,6 +14,7 @@
 </p>
 
 ---
+
 
 ##  **About me**
 
